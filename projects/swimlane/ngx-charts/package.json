@@ -4,7 +4,7 @@
   "description": "Declarative Charting Framework for Angular",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/swimlane/ngx-charts.git"
+    "url": "git+https://github.com/PhilippeMalric/ngx-charts.git"
   },
   "keywords": [
     "angular",
@@ -23,11 +23,9 @@
     "viz",
     "graph"
   ],
-  "author": "Swimlane",
+  "author": "PhilippeMalric",
   "maintainers": [
-    "Marjan Georgiev",
-    "Jayson Harshbarger",
-    "Luis Bello"
+    "Philippe Malric"
   ],
   "license": "MIT",
   "bugs": {
